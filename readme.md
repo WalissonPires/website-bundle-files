@@ -12,7 +12,7 @@ Veja o arquivo **webpack.config.json** para saber.
 
 # Pegadinhas
 
-## Funçãoes desaparem
+## Funçãoes desaparecem
 O webpack não irá adicionar ao bundle qualquer função que *"não esteja sendo utilizada"*.
 Por exemplo:
 
